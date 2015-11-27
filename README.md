@@ -1,5 +1,7 @@
 # Nyarlathotep
 
+**(This gem is WIP)**
+
 Nyarlathotep is the handy library to modify ruby code.
 
 ## Installation
